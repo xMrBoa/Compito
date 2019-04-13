@@ -1,0 +1,103 @@
+commit 9b29d6d39f0b8169af2f753a64d911bc75bd5439
+Merge: 4f8f59a 2c6eae8
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:34:51 2019 +0200
+
+    Fusione ramo Home
+
+commit 4f8f59a50436543b864613d1ff6866909ed883a8
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:32:40 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..1c69b5a 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-image: blue;}
+\ No newline at end of file
+
+commit 2c6eae83d0e371c9cb736b067990ec7cbe3da5cf
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:23:06 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..3bbb1bd 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color: red;}
+\ No newline at end of file
+
+commit c8835834faf46c55bd1dbf6a154fe25843eba796
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:21:36 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/Homer.jpg b/img/Homer.jpg
+new file mode 100644
+index 0000000..4a1e37a
+Binary files /dev/null and b/img/Homer.jpg differ
+
+commit 9cbeb9cae169f8ef375dd20a34e80772dc4baedd
+Merge: 6e90a23 6aafd7a
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:18:53 2019 +0200
+
+    Unite le Fusione ramo Contatti
+
+commit 6aafd7a062e27ced39957e9fe42c9d99b8f335b0
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:13:29 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit c1d39e104104788f9487d0e5adc59181b9506e1e
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:12:41 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit dd5920f61f7b2fe75e38426aabce6830e8dec361
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:10:05 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/B0$$.jpg b/img/B0$$.jpg
+new file mode 100644
+index 0000000..cae242d
+Binary files /dev/null and b/img/B0$$.jpg differ
+
+commit 6e90a2314591a88daa6623fe0323ea5cc4e1e696
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:08:14 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit d13f64f137d04492537009b7f35622d14dd9924f
+Author: xMrBoa <studente.boanini.niccolo@gmail.com>
+Date:   Sat Apr 13 11:05:16 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
